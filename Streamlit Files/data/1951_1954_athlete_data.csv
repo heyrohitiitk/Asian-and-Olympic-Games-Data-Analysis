@@ -1,0 +1,700 @@
+Player_Name,Country,Sport,Event,Sport_Type,Gold,Silver,Bronze,Year,Gender
+Lavy Pinto,India,Athletics,100 m,Single,1,0,0,1951,M
+Lavy Pinto,India,Athletics,200 m,Single,1,0,0,1951,M
+Eitaro Okano,Japan,Athletics,400 m,Single,1,0,0,1951,M
+Ranjit Singh,India,Athletics,800 m,Single,1,0,0,1951,M
+Nikka Singh,India,Athletics,1500 m,Single,1,0,0,1951,M
+Ali Baghbanbashi,Iran,Athletics,5000 m,Single,1,0,0,1951,M
+Soichi Tamoi,Japan,Athletics,"10,000 m",Single,1,0,0,1951,M
+Ng Liang Chiang,Singapore,Athletics,110 m hurdles,Single,1,0,0,1951,M
+Eitaro Okano,Japan,Athletics,400 m hurdles,Single,1,0,0,1951,M
+Susumu Takahashi,Japan,Athletics,3000 m steeplechase,Single,1,0,0,1951,M
+Masaji Tajima,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,M
+Toshihiro Ohashi,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,M
+Tomio Hosoda,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,M
+Kazuta Ikoma,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,M
+A. S. Bakshi,India,Athletics,4 × 400 m relay,Team,1,0,0,1951,M
+Govind Singh,India,Athletics,4 × 400 m relay,Team,1,0,0,1951,M
+Balwant Singh,India,Athletics,4 × 400 m relay,Team,1,0,0,1951,M
+Karnan Singh,India,Athletics,4 × 400 m relay,Team,1,0,0,1951,M
+Chhota Singh,India,Athletics,Marathon,Single,1,0,0,1951,M
+Mahabir Prasad,India,Athletics,"10,000 m walk",Single,1,0,0,1951,M
+Bakhtawar Singh,India,Athletics,50 km walk,Single,1,0,0,1951,M
+Andres Franco,Philippines,Athletics,High jump,Single,1,0,0,1951,M
+Bunkichi Sawada,Japan,Athletics,Pole vault,Single,1,0,0,1951,M
+Masaji Tajima,Japan,Athletics,Long jump,Single,1,0,0,1951,M
+Yoshio Iimuro,Japan,Athletics,Triple jump,Single,1,0,0,1951,M
+Madan Lal,India,Athletics,Shot put,Single,1,0,0,1951,M
+Makhan Singh,India,Athletics,Discus throw,Single,1,0,0,1951,M
+Fumio Kamamoto,Japan,Athletics,Hammer throw,Single,1,0,0,1951,M
+Haruo Nagayasu,Japan,Athletics,Javelin throw,Single,1,0,0,1951,M
+Fumio Nishiuchi,Japan,Athletics,Decathlon,Single,1,0,0,1951,M
+Toshihiro Ohashi,Japan,Athletics,100 m,Single,0,1,0,1951,M
+M. Gabriel,India,Athletics,200 m,Single,0,1,0,1951,M
+A. S. Bakshi,India,Athletics,400 m,Single,0,1,0,1951,M
+Kulwant Singh,India,Athletics,800 m,Single,0,1,0,1951,M
+Susumu Takahashi,Japan,Athletics,1500 m,Single,0,1,0,1951,M
+Pritam Singh,India,Athletics,5000 m,Single,0,1,0,1951,M
+Ryosuke Takasugi,Japan,Athletics,"10,000 m",Single,0,1,0,1951,M
+Michitaka Kinami,Japan,Athletics,110 m hurdles,Single,0,1,0,1951,M
+Teja Singh,India,Athletics,400 m hurdles,Single,0,1,0,1951,M
+Ali Baghbanbashi,Iran,Athletics,3000 m steeplechase,Single,0,1,0,1951,M
+Lavy Pinto,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,M
+M. Gabriel,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,M
+Ram Swaroop,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,M
+Alfred Shamin,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,M
+Yorio Mizuyoke,Japan,Athletics,4 × 400 m relay,Team,0,1,0,1951,M
+Ichiro Tao,Japan,Athletics,4 × 400 m relay,Team,0,1,0,1951,M
+Fumio Nishiuchi,Japan,Athletics,4 × 400 m relay,Team,0,1,0,1951,M
+Eitaro Okano,Japan,Athletics,4 × 400 m relay,Team,0,1,0,1951,M
+Katsuo Nishida,Japan,Athletics,Marathon,Single,0,1,0,1951,M
+Takeo Sato,Japan,Athletics,"10,000 m walk",Single,0,1,0,1951,M
+B. Das,India,Athletics,50 km walk,Single,0,1,0,1951,M
+Yukio Ishikawa,Japan,Athletics,High jump,Single,0,1,0,1951,M
+M. A. Akbar,Ceylon,Athletics,Pole vault,Single,0,1,0,1951,M
+Baldev Singh,India,Athletics,Long jump,Single,0,1,0,1951,M
+Takashi Aso,Japan,Athletics,Triple jump,Single,0,1,0,1951,M
+Sukeo Denda,Japan,Athletics,Shot put,Single,0,1,0,1951,M
+Norimi Sato,Japan,Athletics,Discus throw,Single,0,1,0,1951,M
+Somnath Chopra,India,Athletics,Hammer throw,Single,0,1,0,1951,M
+Parsa Singh,India,Athletics,Javelin throw,Single,0,1,0,1951,M
+Bunkichi Sawada,Japan,Athletics,Decathlon,Single,0,1,0,1951,M
+Tomio Hosoda,Japan,Athletics,100 m,Single,0,0,1,1951,M
+Tomio Hosoda,Japan,Athletics,200 m,Single,0,0,1,1951,M
+Govind Singh,India,Athletics,400 m,Single,0,0,1,1951,M
+Kikuo Moriya,Japan,Athletics,800 m,Single,0,0,1,1951,M
+Kikuo Moriya,Japan,Athletics,1500 m,Single,0,0,1,1951,M
+Soichi Tamoi,Japan,Athletics,5000 m,Single,0,0,1,1951,M
+Gurbachan Singh,India,Athletics,"10,000 m",Single,0,0,1,1951,M
+Lloyd Valberg,Singapore,Athletics,110 m hurdles,Single,0,0,1,1951,M
+Ng Liang Chiang,Singapore,Athletics,400 m hurdles,Single,0,0,1,1951,M
+Ajit Singh,India,Athletics,3000 m steeplechase,Single,0,0,1,1951,M
+Genaro Cabrera,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1951,M
+Tito Almagro,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1951,M
+Jovencio Ardina,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1951,M
+Bernabe Lovina,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1951,M
+Bienvenido Llaneta,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1951,M
+Bernabe Lovina,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1951,M
+Tomas Bennet,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1951,M
+Genaro Cabrera,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1951,M
+Surat Singh Mathur,India,Athletics,Marathon,Single,0,0,1,1951,M
+Kesar Singh,India,Athletics,"10,000 m walk",Single,0,0,1,1951,M
+Takeo Sato,Japan,Athletics,50 km walk,Single,0,0,1,1951,M
+Maram Sudarmodjo,Indonesia,Athletics,High jump,Single,0,0,1,1951,M
+Shuhei Nishida,Japan,Athletics,Pole vault,Single,0,0,1,1951,M
+Takashi Aso,Japan,Athletics,Long jump,Single,0,0,1,1951,M
+Hendarsin,Indonesia,Athletics,Triple jump,Single,0,0,1,1951,M
+Norimi Sato,Japan,Athletics,Shot put,Single,0,0,1,1951,M
+Aurelio Amante,Philippines,Athletics,Discus throw,Single,0,0,1,1951,M
+Kishen Singh,India,Athletics,Hammer throw,Single,0,0,1,1951,M
+Matulessy,Indonesia,Athletics,Javelin throw,Single,0,0,1,1951,M
+Khurshid Ahmed,India,Athletics,Decathlon,Single,0,0,1,1951,M
+Kiyoko Sugimura,Japan,Athletics,100 m,Single,1,0,0,1951,F
+Kimiko Okamoto,Japan,Athletics,200 m,Single,1,0,0,1951,F
+Kyoko Yoneda,Japan,Athletics,80 m hurdles,Single,1,0,0,1951,F
+Kimiko Okamoto,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,F
+Taeko Sato,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,F
+Ayako Yoshikawa,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,F
+Kiyoko Sugimura,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1951,F
+Kyoko Yoneda,Japan,Athletics,High jump,Single,1,0,0,1951,F
+Kiyoko Sugimura,Japan,Athletics,Long jump,Single,1,0,0,1951,F
+Toyoko Yoshino,Japan,Athletics,Shot put,Single,1,0,0,1951,F
+Toyoko Yoshino,Japan,Athletics,Discus throw,Single,1,0,0,1951,F
+Toyoko Yoshino,Japan,Athletics,Javelin throw,Single,1,0,0,1951,F
+Roshan Mistry,India,Athletics,100 m,Single,0,1,0,1951,F
+Laura Dowdswell,Singapore,Athletics,200 m,Single,0,1,0,1951,F
+Laura Dowdswell,Singapore,Athletics,80 m hurdles,Single,0,1,0,1951,F
+Mary D'Souza,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,F
+Roshan Mistry,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,F
+Banoo Gulzar,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,F
+Pat Mendonca,India,Athletics,4 × 100 m relay,Team,0,1,0,1951,F
+Taeko Sato,Japan,Athletics,High jump,Single,0,1,0,1951,F
+Ayako Yoshikawa,Japan,Athletics,Long jump,Single,0,1,0,1951,F
+Fumi Kojima,Japan,Athletics,Shot put,Single,0,1,0,1951,F
+Fumi Kojima,Japan,Athletics,Discus throw,Single,0,1,0,1951,F
+Miyoko Kato,Japan,Athletics,Javelin throw,Single,0,1,0,1951,F
+Kimiko Okamoto,Japan,Athletics,100 m,Single,0,0,1,1951,F
+Mary D'Souza,India,Athletics,200 m,Single,0,0,1,1951,F
+Taeko Sato,Japan,Athletics,80 m hurdles,Single,0,0,1,1951,F
+Triwulan,Indonesia,Athletics,4 × 100 m relay,Team,0,0,1,1951,F
+Darwati,Indonesia,Athletics,4 × 100 m relay,Team,0,0,1,1951,F
+Surjowati,Indonesia,Athletics,4 × 100 m relay,Team,0,0,1,1951,F
+Lie Djiang Nio,Indonesia,Athletics,4 × 100 m relay,Team,0,0,1,1951,F
+Marie Semoes,India,Athletics,High jump,Single,0,0,1,1951,F
+Sylvia Gauntlet,India,Athletics,Long jump,Single,0,0,1,1951,F
+Barbara Webster,India,Athletics,Shot put,Single,0,0,1,1951,F
+Annie Salamun,Indonesia,Athletics,Discus throw,Single,0,0,1,1951,F
+Barbara Webster,India,Athletics,Javelin throw,Single,0,0,1,1951,F
+Abdul Khaliq,Pakistan,Athletics,100 m,Single,1,0,0,1954,M
+Muhammad Sharif Butt,Pakistan,Athletics,200 m,Single,1,0,0,1954,M
+Kanji Akagi,Japan,Athletics,400 m,Single,1,0,0,1954,M
+Yoshitaka Muroya,Japan,Athletics,800 m,Single,1,0,0,1954,M
+Choi Yun-chil,South Korea,Athletics,1500 m,Single,1,0,0,1954,M
+Osamu Inoue,Japan,Athletics,5000 m,Single,1,0,0,1954,M
+Choi Chung-sik,South Korea,Athletics,"10,000 m",Single,1,0,0,1954,M
+Sarwan Singh,India,Athletics,110 m hurdles,Single,1,0,0,1954,M
+Mirza Khan,Pakistan,Athletics,400 m hurdles,Single,1,0,0,1954,M
+Susumu Takahashi,Japan,Athletics,3000 m steeplechase,Single,1,0,0,1954,M
+Masaji Tajima,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1954,M
+Yoshihiro Takatani,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1954,M
+Tomio Hosoda,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1954,M
+Akira Kiyofuji,Japan,Athletics,4 × 100 m relay,Team,1,0,0,1954,M
+Akira Matsui,Japan,Athletics,4 × 400 m relay,Team,1,0,0,1954,M
+Yoshitaka Muroya,Japan,Athletics,4 × 400 m relay,Team,1,0,0,1954,M
+Nobuaki Matsuno,Japan,Athletics,4 × 400 m relay,Team,1,0,0,1954,M
+Kanji Akagi,Japan,Athletics,4 × 400 m relay,Team,1,0,0,1954,M
+Ajit Singh Balla,India,Athletics,High jump,Single,1,0,0,1954,M
+Bunkichi Sawada,Japan,Athletics,Pole vault,Single,1,0,0,1954,M
+Noriaki Sagawa,Japan,Athletics,Long jump,Single,1,0,0,1954,M
+Noriaki Sagawa,Japan,Athletics,Triple jump,Single,1,0,0,1954,M
+Parduman Singh Brar,India,Athletics,Shot put,Single,1,0,0,1954,M
+Parduman Singh Brar,India,Athletics,Discus throw,Single,1,0,0,1954,M
+Yoshio Kojima,Japan,Athletics,Hammer throw,Single,1,0,0,1954,M
+Muhammad Nawaz,Pakistan,Athletics,Javelin throw,Single,1,0,0,1954,M
+Yang Chuan-kwang,Republic of China,Athletics,Decathlon,Single,1,0,0,1954,M
+Genaro Cabrera,Philippines,Athletics,100 m,Single,0,1,0,1954,M
+Khwaja Muhammad Aslam,Pakistan,Athletics,200 m,Single,0,1,0,1954,M
+Joginder Singh Dhanaor,India,Athletics,400 m,Single,0,1,0,1954,M
+Sohan Singh Dhanoa,India,Athletics,800 m,Single,0,1,0,1954,M
+Yoshitaka Muroya,Japan,Athletics,1500 m,Single,0,1,0,1954,M
+Choi Yun-chil,South Korea,Athletics,5000 m,Single,0,1,0,1954,M
+Jiro Yamauchi,Japan,Athletics,"10,000 m",Single,0,1,0,1954,M
+Yukiyoshi Kawata,Japan,Athletics,110 m hurdles,Single,0,1,0,1954,M
+Chan Onn Leng,Singapore,Athletics,400 m hurdles,Single,0,1,0,1954,M
+Yasumasa Shirasagi,Japan,Athletics,3000 m steeplechase,Single,0,1,0,1954,M
+Abdul Khaliq,Pakistan,Athletics,4 × 100 m relay,Team,0,1,0,1954,M
+Muhammad Sharif Butt,Pakistan,Athletics,4 × 100 m relay,Team,0,1,0,1954,M
+Khwaja Muhammad Aslam,Pakistan,Athletics,4 × 100 m relay,Team,0,1,0,1954,M
+Abdul Aziz,Pakistan,Athletics,4 × 100 m relay,Team,0,1,0,1954,M
+Joginder Singh Dhanaor,India,Athletics,4 × 400 m relay,Team,0,1,0,1954,M
+Ivan Jacob,India,Athletics,4 × 400 m relay,Team,0,1,0,1954,M
+Harjeet Singh,India,Athletics,4 × 400 m relay,Team,0,1,0,1954,M
+J. B. Joseph,India,Athletics,4 × 400 m relay,Team,0,1,0,1954,M
+Yukio Ishikawa,Japan,Athletics,High jump,Single,0,1,0,1954,M
+Toyokichi Matsumoto,Japan,Athletics,Pole vault,Single,0,1,0,1954,M
+Yoshiro Sonoda,Japan,Athletics,Long jump,Single,0,1,0,1954,M
+Yoshio Iimuro,Japan,Athletics,Triple jump,Single,0,1,0,1954,M
+Yoshio Kojima,Japan,Athletics,Shot put,Single,0,1,0,1954,M
+Chi Pei-lin,Republic of China,Athletics,Discus throw,Single,0,1,0,1954,M
+Muhammad Iqbal,Pakistan,Athletics,Hammer throw,Single,0,1,0,1954,M
+Jalal Khan,Pakistan,Athletics,Javelin throw,Single,0,1,0,1954,M
+Fumio Nishiuchi,Japan,Athletics,Decathlon,Single,0,1,0,1954,M
+M. Gabriel,India,Athletics,100 m,Single,0,0,1,1954,M
+Stephen Xavier,Hong Kong,Athletics,200 m,Single,0,0,1,1954,M
+Chen Ying-lang,Republic of China,Athletics,400 m,Single,0,0,1,1954,M
+Michio Ueki,Japan,Athletics,800 m,Single,0,0,1,1954,M
+Michio Ueki,Japan,Athletics,1500 m,Single,0,0,1,1954,M
+Dalu Ram,India,Athletics,5000 m,Single,0,0,1,1954,M
+Pi Li-ming,Republic of China,Athletics,"10,000 m",Single,0,0,1,1954,M
+Takehiko Nakajima,Japan,Athletics,110 m hurdles,Single,0,0,1,1954,M
+Jaime Pimental,Philippines,Athletics,400 m hurdles,Single,0,0,1,1954,M
+Dalu Ram,India,Athletics,3000 m steeplechase,Single,0,0,1,1954,M
+Genaro Cabrera,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,M
+Gaspar Azares,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,M
+Eusebio Ensong,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,M
+Pedro Subido,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,M
+Pablo Somblingo,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1954,M
+Cipriano Niera,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1954,M
+Mauricio Paubaya,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1954,M
+Ernesto Rodriguez,Philippines,Athletics,4 × 400 m relay,Team,0,0,1,1954,M
+Andres Franco,Philippines,Athletics,High jump,Single,0,0,1,1954,M
+Lai Yu-tao,Republic of China,Athletics,Pole vault,Single,0,0,1,1954,M
+Lin Te-sheng,Republic of China,Athletics,Long jump,Single,0,0,1,1954,M
+Choi Yong-kee,South Korea,Athletics,Triple jump,Single,0,0,1,1954,M
+Ishar Singh,India,Athletics,Shot put,Single,0,0,1,1954,M
+Liu Ching,Republic of China,Athletics,Discus throw,Single,0,0,1,1954,M
+Song Kyo-sik,South Korea,Athletics,Hammer throw,Single,0,0,1,1954,M
+Haruo Nagayasu,Japan,Athletics,Javelin throw,Single,0,0,1,1954,M
+Ronnie O'Brien,India,Athletics,Decathlon,Single,0,0,1,1954,M
+Atsuko Nambu,Japan,Athletics,100 m,Single,1,0,0,1954,F
+Midori Tanaka,Japan,Athletics,200 m,Single,1,0,0,1954,F
+Michiko Iwamoto,Japan,Athletics,80 m hurdles,Single,1,0,0,1954,F
+Christine Brown,India,Athletics,4 × 100 m relay,Team,1,0,0,1954,F
+Stephie D'Souza,India,Athletics,4 × 100 m relay,Team,1,0,0,1954,F
+Violet Peters,India,Athletics,4 × 100 m relay,Team,1,0,0,1954,F
+Mary D'Souza,India,Athletics,4 × 100 m relay,Team,1,0,0,1954,F
+Ahuva Kraus,Israel,Athletics,High jump,Single,1,0,0,1954,F
+Yoshie Takahashi,Japan,Athletics,Long jump,Single,1,0,0,1954,F
+Toyoko Yoshino,Japan,Athletics,Shot put,Single,1,0,0,1954,F
+Toyoko Yoshino,Japan,Athletics,Discus throw,Single,1,0,0,1954,F
+Akiko Kurihara,Japan,Athletics,Javelin throw,Single,1,0,0,1954,F
+Mary Klass,Singapore,Athletics,100 m,Single,0,1,0,1954,F
+Atsuko Nambu,Japan,Athletics,200 m,Single,0,1,0,1954,F
+Miyo Miyashita,Japan,Athletics,80 m hurdles,Single,0,1,0,1954,F
+Kimiko Okamoto,Japan,Athletics,4 × 100 m relay,Team,0,1,0,1954,F
+Atsuko Nambu,Japan,Athletics,4 × 100 m relay,Team,0,1,0,1954,F
+Michiko Iwamoto,Japan,Athletics,4 × 100 m relay,Team,0,1,0,1954,F
+Midori Tanaka,Japan,Athletics,4 × 100 m relay,Team,0,1,0,1954,F
+Miyoko Takahashi,Japan,Athletics,High jump,Single,0,1,0,1954,F
+Atsuko Nambu,Japan,Athletics,Long jump,Single,0,1,0,1954,F
+Motoko Yoshida,Japan,Athletics,Shot put,Single,0,1,0,1954,F
+Taeko Nomura,Japan,Athletics,Discus throw,Single,0,1,0,1954,F
+Yasuko Inden,Japan,Athletics,Javelin throw,Single,0,1,0,1954,F
+Christine Brown,India,Athletics,100 m,Single,0,0,1,1954,F
+Inocencia Solis,Philippines,Athletics,200 m,Single,0,0,1,1954,F
+Tang Pui Wah,Singapore,Athletics,80 m hurdles,Single,0,0,1,1954,F
+Inocencia Solis,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,F
+Rogelia Ferrer,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,F
+Manolita Cinco,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,F
+Roberta Anore,Philippines,Athletics,4 × 100 m relay,Team,0,0,1,1954,F
+Mieko Muro,Japan,Athletics,High jump,Single,0,0,1,1954,F
+Mikiko Tazaki,Japan,Athletics,Long jump,Single,0,0,1,1954,F
+Yuriko Mizoguchi,Japan,Athletics,Shot put,Single,0,0,1,1954,F
+Yuriko Mizoguchi,Japan,Athletics,Discus throw,Single,0,0,1,1954,F
+Vivencia Subido,Philippines,Athletics,Javelin throw,Single,0,0,1,1954,F
+Francisco Calilan,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Andres dela Cruz,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Genaro Fernandez,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Jose Gochangco,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Rafael Hechanova,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Moro Lorenzo,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Carlos Loyzaga,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Antonio Martinez,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Lauro Mumar,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Ignacio Ramos,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Meliton Santos,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Mariano Tolentino,Philippines,Basketball,Men,Team,1,0,0,1951,F
+Makoto Arai,Japan,Basketball,Men,Team,0,1,0,1951,F
+Mitsugu Hachiya,Japan,Basketball,Men,Team,0,1,0,1951,F
+Hiroshi Ikeda,Japan,Basketball,Men,Team,0,1,0,1951,F
+Junichi Iwao,Japan,Basketball,Men,Team,0,1,0,1951,F
+Michio Katayama,Japan,Basketball,Men,Team,0,1,0,1951,F
+Fumio Matsuoka,Japan,Basketball,Men,Team,0,1,0,1951,F
+Kasaburo Ogura,Japan,Basketball,Men,Team,0,1,0,1951,F
+Shuzo Okubo,Japan,Basketball,Men,Team,0,1,0,1951,F
+Shigeru Saito,Japan,Basketball,Men,Team,0,1,0,1951,F
+Minoru Takahashi,Japan,Basketball,Men,Team,0,1,0,1951,F
+Mitsuhide Tsudi,Japan,Basketball,Men,Team,0,1,0,1951,F
+Hassan Khaleghpour,Iran,Basketball,Men,Team,0,0,1,1951,F
+Kamal Mashhoun,Iran,Basketball,Men,Team,0,0,1,1951,F
+Reza Masoumi,Iran,Basketball,Men,Team,0,0,1,1951,F
+Kambiz Mokhberi,Iran,Basketball,Men,Team,0,0,1,1951,F
+Alireza Oshar,Iran,Basketball,Men,Team,0,0,1,1951,F
+Hossein Razi,Iran,Basketball,Men,Team,0,0,1,1951,F
+Mashallah Safiyar,Iran,Basketball,Men,Team,0,0,1,1951,F
+Abolfazl Solbi,Iran,Basketball,Men,Team,0,0,1,1951,F
+Hossein Soroudi,Iran,Basketball,Men,Team,0,0,1,1951,F
+Hossein Soudipour,Iran,Basketball,Men,Team,0,0,1,1951,F
+Bayani Amador,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Florentino Bautista,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Jose Maria Cacho,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Napoleon Flores,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Antonio Genato,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Rafael Hechanova,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Eduardo Lim,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Carlos Loyzaga,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Ramon Manulat,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Lauro Mumar,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Francisco Rabat,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Ignacio Ramos,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Ponciano Saldaña,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Mariano Tolentino,Philippines,Basketball,Men,Team,1,0,0,1954,M
+Hoo Cha-pen,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Lai Lam-kwong,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Edward Lee,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Jose Lim,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Julian Lim,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Ling Jing-huan,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Joachim Poon,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Tong Suet-fong,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Tsai Bon-hua,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Wang Yih-jiun,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Wu Yet-an,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Joachim Yao,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+James Yap,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Yung Pi-hock,Republic of China,Basketball,Men,Team,0,1,0,1954,M
+Hirokazu Arai,Japan,Basketball,Men,Team,0,0,1,1954,M
+Jyunya Arai,Japan,Basketball,Men,Team,0,0,1,1954,M
+Riichi Arai,Japan,Basketball,Men,Team,0,0,1,1954,M
+Takashi Itoyama,Japan,Basketball,Men,Team,0,0,1,1954,M
+Takeshi Kinoshita,Japan,Basketball,Men,Team,0,0,1,1954,M
+Hitoshi Konno,Japan,Basketball,Men,Team,0,0,1,1954,M
+Hisashi Nagashima,Japan,Basketball,Men,Team,0,0,1,1954,M
+Shozo Noguchi,Japan,Basketball,Men,Team,0,0,1,1954,M
+Hiroshi Saito,Japan,Basketball,Men,Team,0,0,1,1954,M
+Shigeuji Saito,Japan,Basketball,Men,Team,0,0,1,1954,M
+Shutaro Shoji,Japan,Basketball,Men,Team,0,0,1,1954,M
+Takeo Sugiyama,Japan,Basketball,Men,Team,0,0,1,1954,M
+Ernesto Sajo,Philippines,Boxing,Flyweight(51 kg) ,Single,1,0,0,1954,M
+Alejandro Ortuoste,Philippines,Boxing,Bantamweight(54 kg) ,Single,1,0,0,1954,M
+Park Kum-hyun,South Korea,Boxing,Featherweight(57 kg) ,Single,1,0,0,1954,M
+Celedonio Espinosa,Philippines,Boxing,Lightweight(60 kg) ,Single,1,0,0,1954,M
+Ernesto Porto,Philippines,Boxing,Light welterweight(63.5 kg) ,Single,1,0,0,1954,M
+Kazuma Fujimoto,Japan,Boxing,Welterweight(67 kg) ,Single,1,0,0,1954,M
+Vicente Tunacao,Philippines,Boxing,Light middleweight(71 kg) ,Single,1,0,0,1954,M
+Lee Jang-kyo,South Korea,Boxing,Flyweight(51 kg) ,Single,0,1,0,1954,M
+Hempala Jayasuriya,Ceylon,Boxing,Bantamweight(54 kg) ,Single,0,1,0,1954,M
+Mauro Dizon,Philippines,Boxing,Featherweight(57 kg) ,Single,0,1,0,1954,M
+Henry Wong,Republic of China,Boxing,Lightweight(60 kg) ,Single,0,1,0,1954,M
+Lee Sam-yong,South Korea,Boxing,Light welterweight(63.5 kg) ,Single,0,1,0,1954,M
+Bulat Bin Ismail,Singapore,Boxing,Welterweight(67 kg) ,Single,0,1,0,1954,M
+Yutaka Kobashi,Japan,Boxing,Light middleweight(71 kg) ,Single,0,1,0,1954,M
+Aye Kho,Burma,Boxing,Flyweight(51 kg) ,Single,0,0,1,1954,M
+Kichio Miyake,Japan,Boxing,Bantamweight(54 kg) ,Single,0,0,1,1954,M
+Chandrasena Jayasuriya,Ceylon,Boxing,Featherweight(57 kg) ,Single,0,0,1,1954,M
+Hiroshi Iwabuchi,Japan,Boxing,Lightweight(60 kg) ,Single,0,0,1,1954,M
+Hisao Inoue,Japan,Boxing,Light welterweight(63.5 kg) ,Single,0,0,1,1954,M
+Kim Yoon-seo,South Korea,Boxing,Welterweight(67 kg) ,Single,0,0,1,1954,M
+Kihei Tomioka,Japan,Cycling,Road race,Single,1,0,0,1951,M
+Yuji Tachiiri,Japan,Cycling,Road race,Single,0,1,0,1951,M
+Takeo Sato,Japan,Cycling,Road race,Single,0,0,1,1951,M
+Takeo Sato,Japan,Cycling,Sprint,Single,1,0,0,1951,M
+Shoichiro Sugihara,Japan,Cycling,1 km time trial,Single,1,0,0,1951,M
+Ryo Ishikawa,Japan,Cycling,Team pursuit,Team,1,0,0,1951,M
+Takeo Sato,Japan,Cycling,Team pursuit,Team,1,0,0,1951,M
+Yuji Tachiiri,Japan,Cycling,Team pursuit,Team,1,0,0,1951,M
+Kihei Tomioka,Japan,Cycling,Team pursuit,Team,1,0,0,1951,M
+Shoichiro Sugihara,Japan,Cycling,Sprint,Single,0,1,0,1951,M
+Ryo Ishikawa,Japan,Cycling,1 km time trial,Single,0,1,0,1951,M
+Dhangar,India,Cycling,Team pursuit,Team,0,1,0,1951,M
+Raj Kumar Mehra,India,Cycling,Team pursuit,Team,0,1,0,1951,M
+Madan Mohan,India,Cycling,Team pursuit,Team,0,1,0,1951,M
+Gurdev Singh,India,Cycling,Team pursuit,Team,0,1,0,1951,M
+Rohinton Noble,India,Cycling,Sprint,Single,0,0,1,1951,M
+Netai Chand Bysack,India,Cycling,1 km time trial,Single,0,0,1,1951,M
+K. P. Thakkar,India,Diving,3 m springboard,Single,1,0,0,1951,M
+K. P. Thakkar,India,Diving,10 m platform,Single,1,0,0,1951,M
+Ashu Dutt,India,Diving,3 m springboard,Single,0,1,0,1951,M
+Taghi Askari,Iran,Diving,10 m platform,Single,0,1,0,1951,M
+Taghi Askari,Iran,Diving,3 m springboard,Single,0,0,1,1951,M
+T. T. Dand,India,Diving,10 m platform,Single,0,0,1,1951,M
+Yoav Raanan,Israel,Diving,3 m springboard,Single,1,0,0,1954,M
+Katsuichi Mori,Japan,Diving,10 m platform,Single,1,0,0,1954,M
+Katsuichi Mori,Japan,Diving,3 m springboard,Single,0,1,0,1954,M
+Yoav Raanan,Israel,Diving,10 m platform,Single,0,1,0,1954,M
+Yutaka Baba,Japan,Diving,3 m springboard,Single,0,0,1,1954,M
+K. P. Thakkar,India,Diving,10 m platform,Single,0,0,1,1954,M
+Masami Miyamoto,Japan,Diving,3 m springboard,Single,1,0,0,1954,F
+Masami Miyamoto,Japan,Diving,10 m platform,Single,1,0,0,1954,F
+Shuko Sakaguchi,Japan,Diving,3 m springboard,Single,0,1,0,1954,F
+Shuko Sakaguchi,Japan,Diving,10 m platform,Single,0,1,0,1954,F
+Kanoko Tsutani,Japan,Diving,3 m springboard,Single,0,0,1,1954,F
+Kanoko Tsutani,Japan,Diving,10 m platform,Single,0,0,1,1954,F
+Berland Anthony,India,Football,Men,Team,1,0,0,1951,M
+Syed Khwaja Azizuddin,India,Football,Men,Team,1,0,0,1951,M
+A. M. Bachan,India,Football,Men,Team,1,0,0,1951,M
+Sunil Chatterjee,India,Football,Men,Team,1,0,0,1951,M
+Abhoy Ghosh,India,Football,Men,Team,1,0,0,1951,M
+D. N. Devine Jones,India,Football,Men,Team,1,0,0,1951,M
+Ahmed Khan,India,Football,Men,Team,1,0,0,1951,M
+G. Y. S. Laiq,India,Football,Men,Team,1,0,0,1951,M
+Sheikh Abdul Latif,India,Football,Men,Team,1,0,0,1951,M
+Loganathan,India,Football,Men,Team,1,0,0,1951,M
+Sailen Manna,India,Football,Men,Team,1,0,0,1951,M
+Sheoo Mewalal,India,Football,Men,Team,1,0,0,1951,M
+Santosh Nandy,India,Football,Men,Team,1,0,0,1951,M
+Muhammad Noor,India,Football,Men,Team,1,0,0,1951,M
+Chandan Singh Rawat,India,Football,Men,Team,1,0,0,1951,M
+P. B. A. Saleh,India,Football,Men,Team,1,0,0,1951,M
+Mohammad Abdus Sattar,India,Football,Men,Team,1,0,0,1951,M
+T. Shanmugham,India,Football,Men,Team,1,0,0,1951,M
+Runu Guha Thakurta,India,Football,Men,Team,1,0,0,1951,M
+Kenchappa Varadaraj,India,Football,Men,Team,1,0,0,1951,M
+Thenmaddom Varghese,India,Football,Men,Team,1,0,0,1951,M
+Pansanttom Venkatesh,India,Football,Men,Team,1,0,0,1951,M
+Nader Afshar Alavinejad,Iran,Football,Men,Team,0,1,0,1951,M
+Nader Afshar Naderi,Iran,Football,Men,Team,0,1,0,1951,M
+Amir Aghahosseini,Iran,Football,Men,Team,0,1,0,1951,M
+Amir Araghi,Iran,Football,Men,Team,0,1,0,1951,M
+Mohsen Azad,Iran,Football,Men,Team,0,1,0,1951,M
+Mahmoud Bayati,Iran,Football,Men,Team,0,1,0,1951,M
+Masoud Boroumand,Iran,Football,Men,Team,0,1,0,1951,M
+Hossein Fekri,Iran,Football,Men,Team,0,1,0,1951,M
+Aref Gholizadeh,Iran,Football,Men,Team,0,1,0,1951,M
+Mansour Hajian,Iran,Football,Men,Team,0,1,0,1951,M
+Parviz Kouzehkanani,Iran,Football,Men,Team,0,1,0,1951,M
+George Markarian,Iran,Football,Men,Team,0,1,0,1951,M
+Mehdi Masoud-Ansari,Iran,Football,Men,Team,0,1,0,1951,M
+Mehdi Nassiroghloo,Iran,Football,Men,Team,0,1,0,1951,M
+Mahmoud Shakibi,Iran,Football,Men,Team,0,1,0,1951,M
+Hossein Soroudi,Iran,Football,Men,Team,0,1,0,1951,M
+Ghorban Ali Tari,Iran,Football,Men,Team,0,1,0,1951,M
+Ko Arima,Japan,Football,Men,Team,0,0,1,1951,M
+Toshio Iwatani,Japan,Football,Men,Team,0,0,1,1951,M
+Taro Kagawa,Japan,Football,Men,Team,0,0,1,1951,M
+Takashi Kano,Japan,Football,Men,Team,0,0,1,1951,M
+Nobuyuki Kato,Japan,Football,Men,Team,0,0,1,1951,M
+Seki Matsunaga,Japan,Football,Men,Team,0,0,1,1951,M
+Koji Miyata,Japan,Football,Men,Team,0,0,1,1951,M
+Hirokazu Ninomiya,Japan,Football,Men,Team,0,0,1,1951,M
+Ken Noritake,Japan,Football,Men,Team,0,0,1,1951,M
+Yoshio Okada,Japan,Football,Men,Team,0,0,1,1951,M
+Shigeo Sugimoto,Japan,Football,Men,Team,0,0,1,1951,M
+Megumu Tamura,Japan,Football,Men,Team,0,0,1,1951,M
+Masanori Tokita,Japan,Football,Men,Team,0,0,1,1951,M
+Yukio Tsuda,Japan,Football,Men,Team,0,0,1,1951,M
+Chan Fai-hung,Republic of China,Football,Men,Team,1,0,0,1954,M
+Chou Wen-chi,Republic of China,Football,Men,Team,1,0,0,1954,M
+Chu Chin-ching,Republic of China,Football,Men,Team,1,0,0,1954,M
+Chu Wing-keung,Republic of China,Football,Men,Team,1,0,0,1954,M
+Hau Ching-to,Republic of China,Football,Men,Team,1,0,0,1954,M
+Hau Yung-sang,Republic of China,Football,Men,Team,1,0,0,1954,M
+Ho Ying-fan,Republic of China,Football,Men,Team,1,0,0,1954,M
+Hsu Wei-po,Republic of China,Football,Men,Team,1,0,0,1954,M
+King Loh-sung,Republic of China,Football,Men,Team,1,0,0,1954,M
+Lau Yee,Republic of China,Football,Men,Team,1,0,0,1954,M
+Lee Tai-fai,Republic of China,Football,Men,Team,1,0,0,1954,M
+Li Chun-fat,Republic of China,Football,Men,Team,1,0,0,1954,M
+Lo Ching-hsiang,Republic of China,Football,Men,Team,1,0,0,1954,M
+Mok Chun-wah,Republic of China,Football,Men,Team,1,0,0,1954,M
+Ng Kee-cheung,Republic of China,Football,Men,Team,1,0,0,1954,M
+Pau King-yin,Republic of China,Football,Men,Team,1,0,0,1954,M
+Szeto Man,Republic of China,Football,Men,Team,1,0,0,1954,M
+Tang Sum,Republic of China,Football,Men,Team,1,0,0,1954,M
+Teng Sheung,Republic of China,Football,Men,Team,1,0,0,1954,M
+Tse Tsu-kuo,Republic of China,Football,Men,Team,1,0,0,1954,M
+Yen Shih-hsin,Republic of China,Football,Men,Team,1,0,0,1954,M
+Yiu Cheuk-yin,Republic of China,Football,Men,Team,1,0,0,1954,M
+Choi Chung-min,South Korea,Football,Men,Team,0,1,0,1954,M
+Choi Kwang-seok,South Korea,Football,Men,Team,0,1,0,1954,M
+Chu Yung-kwang,South Korea,Football,Men,Team,0,1,0,1954,M
+Chung Kook-chin,South Korea,Football,Men,Team,0,1,0,1954,M
+Chung Nam-sik,South Korea,Football,Men,Team,0,1,0,1954,M
+Ham Heung-chul,South Korea,Football,Men,Team,0,1,0,1954,M
+Han Chang-wha,South Korea,Football,Men,Team,0,1,0,1954,M
+Hong Deok-young,South Korea,Football,Men,Team,0,1,0,1954,M
+Kang Chang-gi,South Korea,Football,Men,Team,0,1,0,1954,M
+Kim Ji-sung,South Korea,Football,Men,Team,0,1,0,1954,M
+Lee Sang-yi,South Korea,Football,Men,Team,0,1,0,1954,M
+Li Jong-kap,South Korea,Football,Men,Team,0,1,0,1954,M
+Min Byung-dae,South Korea,Football,Men,Team,0,1,0,1954,M
+Park Il-kap,South Korea,Football,Men,Team,0,1,0,1954,M
+Park Kyu-chung,South Korea,Football,Men,Team,0,1,0,1954,M
+Sung Nak-woon,South Korea,Football,Men,Team,0,1,0,1954,M
+Seaton Aukim,Burma,Football,Men,Team,0,0,1,1954,M
+Ba Kyu,Burma,Football,Men,Team,0,0,1,1954,M
+Perry Dwe,Burma,Football,Men,Team,0,0,1,1954,M
+Samuel Gordon,Burma,Football,Men,Team,0,0,1,1954,M
+Hla Maung,Burma,Football,Men,Team,0,0,1,1954,M
+Htoowa Dwe,Burma,Football,Men,Team,0,0,1,1954,M
+Kyaw Zaw,Burma,Football,Men,Team,0,0,1,1954,M
+Pe Myint,Burma,Football,Men,Team,0,0,1,1954,M
+Maung Aung,Burma,Football,Men,Team,0,0,1,1954,M
+Sein Myint,Burma,Football,Men,Team,0,0,1,1954,M
+Sein Pe,Burma,Football,Men,Team,0,0,1,1954,M
+Douglas Steward,Burma,Football,Men,Team,0,0,1,1954,M
+Thein Aung,Burma,Football,Men,Team,0,0,1,1954,M
+Tin Kyi,Burma,Football,Men,Team,0,0,1,1954,M
+Tun Aung,Burma,Football,Men,Team,0,0,1,1954,M
+Robert Yin Gyaw,Burma,Football,Men,Team,0,0,1,1954,M
+Martin Gison,Philippines,Shooting,25 m rapid fire pistol,Single,1,0,0,1954,M
+Choji Hosaka,Japan,Shooting,50 m pistol,Single,1,0,0,1954,M
+Albert von Einsiedel,Philippines,Shooting,50 m rifle prone,Single,1,0,0,1954,M
+Adolfo Feliciano,Philippines,Shooting,50 m rifle 3 positions,Single,1,0,0,1954,M
+Hernando Castelo,Philippines,Shooting,300 m rifle 3 positions,Single,1,0,0,1954,M
+Masao Fujita,Japan,Shooting,Trap,Single,1,0,0,1954,M
+Tsurukichi Kawaoka,Japan,Shooting,25 m rapid fire pistol,Single,0,1,0,1954,M
+Albert von Einsiedel,Philippines,Shooting,50 m pistol,Single,0,1,0,1954,M
+Cesar Jayme,Philippines,Shooting,50 m rifle prone,Single,0,1,0,1954,M
+Martin Gison,Philippines,Shooting,50 m rifle 3 positions,Single,0,1,0,1954,M
+Martin Gison,Philippines,Shooting,300 m rifle 3 positions,Single,0,1,0,1954,M
+Tokusaburo Iwata,Japan,Shooting,Trap,Single,0,1,0,1954,M
+Lukman Saketi,Indonesia,Shooting,25 m rapid fire pistol,Single,0,0,1,1954,M
+Simeon Lee,Philippines,Shooting,50 m pistol,Single,0,0,1,1954,M
+Martin Gison,Philippines,Shooting,50 m rifle prone,Single,0,0,1,1954,M
+Jose Zalvidea,Philippines,Shooting,50 m rifle 3 positions,Single,0,0,1,1954,M
+Dov Ben-Dov,Israel,Shooting,300 m rifle 3 positions,Single,0,0,1,1954,M
+Enrique Beech,Philippines,Shooting,Trap,Single,0,0,1,1954,M
+Sachin Nag,India,Swimming,100 m freestyle,Single,1,0,0,1951,M
+Neo Chwee Kok,Singapore,Swimming,400 m freestyle,Single,1,0,0,1951,M
+Neo Chwee Kok,Singapore,Swimming,800 m freestyle,Single,1,0,0,1951,M
+Neo Chwee Kok,Singapore,Swimming,1500 m freestyle,Single,1,0,0,1951,M
+Artemio Salamat,Philippines,Swimming,100 m backstroke,Single,1,0,0,1951,M
+Jacinto Cayco,Philippines,Swimming,200 m breaststroke,Single,1,0,0,1951,M
+Wiebe Wolters,Singapore,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1951,M
+Lionel Chee,Singapore,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1951,M
+Barry Mitchell,Singapore,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1951,M
+Neo Chwee Kok,Singapore,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1951,M
+Artemio Salamat,Philippines,Swimming,3 × 100 m medley relay,Team,1,0,0,1951,M
+Jacinto Cayco,Philippines,Swimming,3 × 100 m medley relay,Team,1,0,0,1951,M
+Nurhatab Rajab,Philippines,Swimming,3 × 100 m medley relay,Team,1,0,0,1951,M
+Wiebe Wolters,Singapore,Swimming,100 m freestyle,Single,0,1,0,1951,M
+Mohammad Mala,Philippines,Swimming,400 m freestyle,Single,0,1,0,1951,M
+Serafin Villanueva,Philippines,Swimming,800 m freestyle,Single,0,1,0,1951,M
+Mohammad Mala,Philippines,Swimming,1500 m freestyle,Single,0,1,0,1951,M
+Kanti Shah,India,Swimming,100 m backstroke,Single,0,1,0,1951,M
+Rene Amabuyok,Philippines,Swimming,200 m breaststroke,Single,0,1,0,1951,M
+Nurhatab Rajab,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1951,M
+Mohammad Mala,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1951,M
+Serafin Villanueva,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1951,M
+Sotero Alcantara,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1951,M
+Lionel Chee,Singapore,Swimming,3 × 100 m medley relay,Team,0,1,0,1951,M
+Tan Hwee Hock,Singapore,Swimming,3 × 100 m medley relay,Team,0,1,0,1951,M
+Neo Chwee Kok,Singapore,Swimming,3 × 100 m medley relay,Team,0,1,0,1951,M
+Sotero Alcantara,Philippines,Swimming,100 m freestyle,Single,0,0,1,1951,M
+Bimal Chandra,India,Swimming,400 m freestyle,Single,0,0,1,1951,M
+Mohammad Mala,Philippines,Swimming,800 m freestyle,Single,0,0,1,1951,M
+Serafin Villanueva,Philippines,Swimming,1500 m freestyle,Single,0,0,1,1951,M
+Edilberto Bonus,Philippines,Swimming,100 m backstroke,Single,0,0,1,1951,M
+Jehangir Naegamwalla,India,Swimming,200 m breaststroke,Single,0,0,1,1951,M
+Isaac Mansoor,India,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1951,M
+Bimal Chandra,India,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1951,M
+Sambhu Saha,India,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1951,M
+Sachin Nag,India,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1951,M
+Kanti Shah,India,Swimming,3 × 100 m medley relay,Team,0,0,1,1951,M
+Jehangir Naegamwalla,India,Swimming,3 × 100 m medley relay,Team,0,0,1,1951,M
+Sachin Nag,India,Swimming,3 × 100 m medley relay,Team,0,0,1,1951,M
+Hiroshi Suzuki,Japan,Swimming,100 m freestyle,Single,1,0,0,1954,M
+Yoshihiro Shoji,Japan,Swimming,400 m freestyle,Single,1,0,0,1954,M
+Yukiyoshi Aoki,Japan,Swimming,1500 m freestyle,Single,1,0,0,1954,M
+Keiji Hase,Japan,Swimming,100 m backstroke,Single,1,0,0,1954,M
+Mamoru Tanaka,Japan,Swimming,200 m breaststroke,Single,1,0,0,1954,M
+Parsons Nabiula,Philippines,Swimming,200 m butterfly,Single,1,0,0,1954,M
+Kenzo Yoshimura,Japan,Swimming,4 × 200 m freestyle relay,Team,1,0,0,1954,M
+Teijiro Tanikawa,Japan,Swimming,4 × 200 m freestyle relay,Team,1,0,0,1954,M
+Yukiyoshi Aoki,Japan,Swimming,4 × 200 m freestyle relay,Team,1,0,0,1954,M
+Hiroshi Suzuki,Japan,Swimming,4 × 200 m freestyle relay,Team,1,0,0,1954,M
+Teijiro Tanikawa,Japan,Swimming,100 m freestyle,Single,0,1,0,1954,M
+Katsuji Yamashita,Japan,Swimming,400 m freestyle,Single,0,1,0,1954,M
+Shichiro Shintaku,Japan,Swimming,1500 m freestyle,Single,0,1,0,1954,M
+Norihiko Kurahashi,Japan,Swimming,100 m backstroke,Single,0,1,0,1954,M
+Masaru Furukawa,Japan,Swimming,200 m breaststroke,Single,0,1,0,1954,M
+Amado Jimenez,Philippines,Swimming,200 m butterfly,Single,0,1,0,1954,M
+Ong Choon Lim,Singapore,Swimming,4 × 200 m freestyle relay,Team,0,1,0,1954,M
+Tan Teow Choon,Singapore,Swimming,4 × 200 m freestyle relay,Team,0,1,0,1954,M
+Lionel Chee,Singapore,Swimming,4 × 200 m freestyle relay,Team,0,1,0,1954,M
+Neo Chwee Kok,Singapore,Swimming,4 × 200 m freestyle relay,Team,0,1,0,1954,M
+Neo Chwee Kok,Singapore,Swimming,100 m freestyle,Single,0,0,1,1954,M
+Bana Sailani,Philippines,Swimming,400 m freestyle,Single,0,0,1,1954,M
+Tsutomu Nagashima,Japan,Swimming,1500 m freestyle,Single,0,0,1,1954,M
+Takuro Ashida,Japan,Swimming,100 m backstroke,Single,0,0,1,1954,M
+Masao Togami,Japan,Swimming,200 m breaststroke,Single,0,0,1,1954,M
+Robert Collins,Philippines,Swimming,200 m butterfly,Single,0,0,1,1954,M
+Rolando Santos,Philippines,Swimming,4 × 200 m freestyle relay,Team,0,0,1,1954,M
+Bertulfo Cachero,Philippines,Swimming,4 × 200 m freestyle relay,Team,0,0,1,1954,M
+Angel Colmenares,Philippines,Swimming,4 × 200 m freestyle relay,Team,0,0,1,1954,M
+Bana Sailani,Philippines,Swimming,4 × 200 m freestyle relay,Team,0,0,1,1954,M
+Haydee Coloso,Philippines,Swimming,100 m freestyle,Single,1,0,0,1954,F
+Misako Tamura,Japan,Swimming,400 m freestyle,Single,1,0,0,1954,F
+Jocelyn von Giese,Philippines,Swimming,100 m backstroke,Single,1,0,0,1954,F
+Masayo Aoki,Japan,Swimming,200 m breaststroke,Single,1,0,0,1954,F
+Haydee Coloso,Philippines,Swimming,100 m butterfly,Single,1,0,0,1954,F
+Sadako Yamashita,Japan,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1954,F
+Shizue Miyabe,Japan,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1954,F
+Misako Tamura,Japan,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1954,F
+Tomiko Atarashi,Japan,Swimming,4 × 100 m freestyle relay,Team,1,0,0,1954,F
+Tomiko Atarashi,Japan,Swimming,100 m freestyle,Single,0,1,0,1954,F
+Akiko Miyazaki,Japan,Swimming,400 m freestyle,Single,0,1,0,1954,F
+Keiko Sadamori,Japan,Swimming,100 m backstroke,Single,0,1,0,1954,F
+Kazuko Sakamoto,Japan,Swimming,200 m breaststroke,Single,0,1,0,1954,F
+Norma Yldefonso,Philippines,Swimming,100 m butterfly,Single,0,1,0,1954,F
+Sonia von Giese,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1954,F
+Gertrudes Vito,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1954,F
+Nimfa Lim,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1954,F
+Haydee Coloso,Philippines,Swimming,4 × 100 m freestyle relay,Team,0,1,0,1954,F
+Shizue Miyabe,Japan,Swimming,100 m freestyle,Single,0,0,1,1954,F
+Yoshiko Sato,Japan,Swimming,400 m freestyle,Single,0,0,1,1954,F
+Midori Morimae,Japan,Swimming,100 m backstroke,Single,0,0,1,1954,F
+Chizuko Urahata,Japan,Swimming,200 m breaststroke,Single,0,0,1,1954,F
+Sandra von Giese,Philippines,Swimming,100 m butterfly,Single,0,0,1,1954,F
+Kwok Ngan-hung,Republic of China,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1954,F
+Tsui Shiu-ling,Republic of China,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1954,F
+Chang Zoe-chee,Republic of China,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1954,F
+Chan Sin-yi,Republic of China,Swimming,4 × 100 m freestyle relay,Team,0,0,1,1954,F
+Jahan Ahir,India,WaterPolo,Men,Team,1,0,0,1951,M
+Ganesh Das,India,WaterPolo,Men,Team,1,0,0,1951,M
+D. Daver,India,WaterPolo,Men,Team,1,0,0,1951,M
+R. Dean,India,WaterPolo,Men,Team,1,0,0,1951,M
+Isaac Mansoor,India,WaterPolo,Men,Team,1,0,0,1951,M
+G. Rattansey,India,WaterPolo,Men,Team,1,0,0,1951,M
+Kanti Shah,India,WaterPolo,Men,Team,1,0,0,1951,M
+Lionel Chee,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Ho Kian Bin,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Kee Soon Bee,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Barry Mitchell,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Keith Mitchell,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Sim Boon Hoon,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Tan Hwee Hock,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Tan Wee Eng,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Wiebe Wolters,Singapore,WaterPolo,Men,Team,0,1,0,1951,M
+Gan Eng Teck,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Ho Kian Bin,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Kee Soon Bee,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Keith Mitchell,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Oh Chwee Hock,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Tan Eng Bock,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Tan Hwee Hock,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Wiebe Wolters,Singapore,WaterPolo,Men,Team,1,0,0,1954,M
+Hachiro Arakawa,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Hirobumi Chige,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Shunichi Hiroshiga,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Teruyoshi Kanda,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Shinichiro Koga,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Takayoshi Matsufuji,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Osamu Miyabe,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Takanao Sado,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Haosue Tajina,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Nisei Tashiro,Japan,WaterPolo,Men,Team,0,1,0,1954,M
+Gashmir Daud,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Djie Soen Kion,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Djie Soen Kwah,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Benjamin Idris,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Liem Siong Lien,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Lim Sing Lok,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Margono,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Oen Teng Pie,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Otman Siragar,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Bunasir Surachnad,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Tio Tjoe Hong,Indonesia,WaterPolo,Men,Team,0,0,1,1954,M
+Mahmoud Namjoo,Iran,Weightlifting,Bantamweight(56 kg) ,Single,1,0,0,1951,M
+Jafar Salmasi,Iran,Weightlifting,Featherweight(60 kg) ,Single,1,0,0,1951,M
+Hassan Ferdos,Iran,Weightlifting,Lightweight(67.5 kg) ,Single,1,0,0,1951,M
+Firouz Pojhan,Iran,Weightlifting,Middleweight(75 kg) ,Single,1,0,0,1951,M
+Hassan Rahnavardi,Iran,Weightlifting,Light heavyweight(82.5 kg) ,Single,1,0,0,1951,M
+Rasoul Raeisi,Iran,Weightlifting,Middle heavyweight(90 kg) ,Single,1,0,0,1951,M
+Leon Kurukchian,Iran,Weightlifting,Heavyweight(+90 kg) ,Single,1,0,0,1951,M
+Ali Mirzaei,Iran,Weightlifting,Bantamweight(56 kg) ,Single,0,1,0,1951,M
+Rodrigo del Rosario,Philippines,Weightlifting,Featherweight(60 kg) ,Single,0,1,0,1951,M
+Peter Ho,Singapore,Weightlifting,Lightweight(67.5 kg) ,Single,0,1,0,1951,M
+Jalal Mansouri,Iran,Weightlifting,Middleweight(75 kg) ,Single,0,1,0,1951,M
+Cheong Kok Cheong,Singapore,Weightlifting,Light heavyweight(82.5 kg) ,Single,0,1,0,1951,M
+Kamineni Eswara Rao,India,Weightlifting,Middle heavyweight(90 kg) ,Single,0,1,0,1951,M
+Ahmad Ordoubadi,Iran,Weightlifting,Heavyweight(+90 kg) ,Single,0,1,0,1951,M
+Pedro Landero,Philippines,Weightlifting,Bantamweight(56 kg) ,Single,0,0,1,1951,M
+Yukio Iguchi,Japan,Weightlifting,Featherweight(60 kg) ,Single,0,0,1,1951,M
+Minoru Kubota,Japan,Weightlifting,Lightweight(67.5 kg) ,Single,0,0,1,1951,M
+Ba Thein,Burma,Weightlifting,Middleweight(75 kg) ,Single,0,0,1,1951,M
+Thein Han,Burma,Weightlifting,Light heavyweight(82.5 kg) ,Single,0,0,1,1951,M
+Maung Maung Lwin,Burma,Weightlifting,Middle heavyweight(90 kg) ,Single,0,0,1,1951,M
+Dandamudi Rajagopal,India,Weightlifting,Heavyweight(+90 kg) ,Single,0,0,1,1951,M
+Yu In-ho,South Korea,Weightlifting,Bantamweight(56 kg) ,Single,1,0,0,1954,M
+Nil Tun Maung,Burma,Weightlifting,Featherweight(60 kg) ,Single,1,0,0,1954,M
+Cho Bong-jik,South Korea,Weightlifting,Lightweight(67.5 kg) ,Single,1,0,0,1954,M
+Kim Chang-hee,South Korea,Weightlifting,Middleweight(75 kg) ,Single,1,0,0,1954,M
+Kim Seong-jip,South Korea,Weightlifting,Light heavyweight(82.5 kg) ,Single,1,0,0,1954,M
+Ko Chong-ku,South Korea,Weightlifting,Middle heavyweight(90 kg) ,Single,1,0,0,1954,M
+Maung Maung Lwin,Burma,Weightlifting,Heavyweight(+90 kg) ,Single,1,0,0,1954,M
+Rodolfo Caparas,Philippines,Weightlifting,Bantamweight(56 kg) ,Single,0,1,0,1954,M
+Rodrigo del Rosario,Philippines,Weightlifting,Featherweight(60 kg) ,Single,0,1,0,1954,M
+Minoru Kubota,Japan,Weightlifting,Lightweight(67.5 kg) ,Single,0,1,0,1954,M
+La See-yun,South Korea,Weightlifting,Middleweight(75 kg) ,Single,0,1,0,1954,M
+Muhammad Iqbal Butt,Pakistan,Weightlifting,Light heavyweight(82.5 kg) ,Single,0,1,0,1954,M
+Pedro del Mundo,Philippines,Weightlifting,Middle heavyweight(90 kg) ,Single,0,1,0,1954,M
+Hong Chi-hua,Republic of China,Weightlifting,Heavyweight(+90 kg) ,Single,0,1,0,1954,M
+Yoshio Nanbu,Japan,Weightlifting,Bantamweight(56 kg) ,Single,0,0,1,1954,M
+Chay Weng Yew,Singapore,Weightlifting,Featherweight(60 kg) ,Single,0,0,1,1954,M
+Thio Ging Hwie,Indonesia,Weightlifting,Lightweight(67.5 kg) ,Single,0,0,1,1954,M
+Hachiro Fujiwara,Japan,Weightlifting,Middleweight(75 kg) ,Single,0,0,1,1954,M
+Harold de Castro,Singapore,Weightlifting,Light heavyweight(82.5 kg) ,Single,0,0,1,1954,M
+Joaquin Vasquez,Philippines,Weightlifting,Middle heavyweight(90 kg) ,Single,0,0,1,1954,M
+Shih Ping-hua,Republic of China,Weightlifting,Heavyweight(+90 kg) ,Single,0,0,1,1954,M
+Din Muhammad,Pakistan,Wrestling,Flyweight(52 kg) ,Single,1,0,0,1954,M
+Minoru Iizuka,Japan,Wrestling,Bantamweight(57 kg) ,Single,1,0,0,1954,M
+Shigeru Kasahara,Japan,Wrestling,Featherweight(62 kg) ,Single,1,0,0,1954,M
+Takeo Shimotori,Japan,Wrestling,Lightweight(67 kg) ,Single,1,0,0,1954,M
+Yutaka Kaneko,Japan,Wrestling,Welterweight(73 kg) ,Single,1,0,0,1954,M
+Kazuo Katsuramoto,Japan,Wrestling,Middleweight(79 kg) ,Single,1,0,0,1954,M
+Kenzo Fukuda,Japan,Wrestling,Heavyweight(+87 kg) ,Single,1,0,0,1954,M
+Yushu Kitano,Japan,Wrestling,Flyweight(52 kg) ,Single,0,1,0,1954,M
+Han Duk-hung,South Korea,Wrestling,Bantamweight(57 kg) ,Single,0,1,0,1954,M
+Mansueto Napilay,Philippines,Wrestling,Featherweight(62 kg) ,Single,0,1,0,1954,M
+B. G. Kashid,India,Wrestling,Lightweight(67 kg) ,Single,0,1,0,1954,M
+Abdul Rashid,Pakistan,Wrestling,Welterweight(73 kg) ,Single,0,1,0,1954,M
+Nicolas Arcales,Philippines,Wrestling,Middleweight(79 kg) ,Single,0,1,0,1954,M
+Baryalai Naseri,Afghanistan,Wrestling,Heavyweight(+87 kg) ,Single,0,1,0,1954,M
+Basilio Fabila,Philippines,Wrestling,Flyweight(52 kg) ,Single,0,0,1,1954,M
+Muhammad Amin,Pakistan,Wrestling,Bantamweight(57 kg) ,Single,0,0,1,1954,M
+Kim Yung-jun,South Korea,Wrestling,Featherweight(62 kg) ,Single,0,0,1,1954,M
+Muhammad Ashraf,Pakistan,Wrestling,Lightweight(67 kg) ,Single,0,0,1,1954,M
+Lim Bae-young,South Korea,Wrestling,Welterweight(73 kg) ,Single,0,0,1,1954,M
+Sohan Singh,India,Wrestling,Middleweight(79 kg) ,Single,0,0,1,1954,M
