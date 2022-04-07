@@ -1,5 +1,4 @@
 Project Title :- Data Analysis of Asian and Olympics Games
-Group No :- 10
 
 We have created 6 folders namely Datasets,Jupyter Notebooks,Presentation,Project Report,Streamlit Files,Web Scraping.
 
